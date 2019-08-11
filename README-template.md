@@ -5,17 +5,13 @@
 ### Author: Jeremy Lee
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/jeremy-401-advanced-javascript/Lab17/pull/1)
+* [travis]([![Build Status](https://www.travis-ci.com/jeremy-401-advanced-javascript/Lab17.svg?branch=master)](https://www.travis-ci.com/jeremy-401-advanced-javascript/Lab17))
 * [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+
 
 #### Documentation
 * [jsdoc](http://xyz.com) (Server assignments)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
 
 ###### `foo(thing) -> string`
 Usage Notes or examples
