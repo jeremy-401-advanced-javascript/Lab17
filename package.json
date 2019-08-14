@@ -1,0 +1,23 @@
+{
+  "name": "lab17",
+  "version": "1.0.0",
+  "description": "Network Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-401-advanced-javascript/Lab17.git"
+  },
+  "author": "Jeremy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremy-401-advanced-javascript/Lab17/issues"
+  },
+  "homepage": "https://github.com/jeremy-401-advanced-javascript/Lab17#readme",
+  "dependencies": {
+    "util": "^0.12.1"
+  }
+}
